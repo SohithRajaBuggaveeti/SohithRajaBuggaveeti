@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SohithRajaBuggaveeti
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently pursing My Masters in Computer Science at University of Florida
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sohith-raja-buggaveeti-353a55123
 
 <!---
